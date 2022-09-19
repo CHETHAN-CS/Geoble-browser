@@ -1,5 +1,5 @@
 # Geoble-browser
-This a best custom web browser developed using visual studio
+This is a best custom web browser developed using C# in visual studio
 
 ##Steps to install this browser ##
 
